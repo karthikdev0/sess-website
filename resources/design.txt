@@ -1,0 +1,115 @@
+color1 -- 71C9CE,A6E3E9,CBF1F5,E3FDFD ,https://colorhunt.co/palette/e3fdfdcbf1f5a6e3e971c9ce
+color2 -- FF4646,FF8585,FFB396,FFF5C0 ,https://colorhunt.co/palette/ff4646ff8585ffb396fff5c0
+color3 -- FFFBCC,FD2E2E,CF1B1B,900D0D ,https://colorhunt.co/palette/fffbccfd2e2ecf1b1b900d0d
+color4 --FF5C58,FE8F8F,FCD2D1,FFEDD3,https://colorhunt.co/palette/ff5c58fe8f8ffcd2d1ffedd3
+
+
+
+
+
+
+
+
+
+fonts 
+serif  -- old
+san serif  -- new ,no foots
+
+open sans
+montserrat
+roboto
+lato -- corporate use
+Merriweather -serif
+Helvetica
+
+
+
+font awesome icons
+
+<script src="https://kit.fontawesome.com/ec61877167.js" crossorigin="anonymous"></script>
+
+
+
+open sans 
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+font-family: 'Open Sans', sans-serif;
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+font-family: 'Roboto', sans-serif;
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+font-family: 'Montserrat', sans-serif;
+
+
+
+
+
+<i class="fas fa-chevron-right"></i>
+<i class="fas fa-chevron-left"></i>
+<i class="fas fa-angle-left"></i>
+<i class="fas fa-angle-right"></i>
+<i class="fas fa-bars"></i>
+<i class="far fa-envelope"></i>
+<i class="fas fa-ellipsis-h"></i>
+<i class="fas fa-home"></i>
+<i class="fas fa-briefcase"></i>
+<i class="fas fa-industry"></i>
+<i class="fas fa-building"></i>
+<i class="fas fa-user-shield"></i>
+<i class="fas fa-shield-alt"></i>
+
+
+
+
+
+
+
+
+
+
+
+
+
+/////////////////////////////////////////////////////////////////////////
+display property
+block - h1 ,p -- ,div.ol,ul,form -- complete width ,not same line
+inline - span,img,anchor ,width can't be changed
+
+inline-block -- width ,same line
+
+none -  removes the elements /visibility: hidden ( keeps the size of element)
+
+//////////////////////////////////////////////////////
+positioning
+
+1.content is everything 
+2.order comes from code
+3.children sit on parents -- z index ,by default,
+	div -->h1 --> span
+
+static --  all html elements are static by default
+relative -  position the element comparing to its static position
+	position 
+	left,bottom,left,right (co-ordinates)
+
+	it doesn't effect the other element position
+
+
+
+
+absolute - relative to parent
+	div -position :relative
+	img - position:absolute left:200px
+
+
+
+
+
+
